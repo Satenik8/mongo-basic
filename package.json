@@ -4,7 +4,7 @@
   "description": "",
   "main": "mongo.server.js",
   "scripts": {
-    "start" : "nodemon mongo.server.js"
+    "dev": "nodemon mongo.server.js"
   },
   "keywords": [],
   "author": "",
